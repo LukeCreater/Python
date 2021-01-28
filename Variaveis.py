@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-texto = "Teste de variaveis" #String
+texto = "Texto" #String
 numero = 1 #Int
 flutuante = 1.1 #Float
 python = True #Bool
