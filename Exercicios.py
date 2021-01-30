@@ -63,7 +63,7 @@ lista1 = [3,2,1]
 print(sorted(lista))
 
 """
-5 - 5. Escreva um programa que receba dois números e um sinal, 
+5 - Escreva um programa que receba dois números e um sinal, 
 e faça a operação matemática definida pelo sinal.   
 """
 
