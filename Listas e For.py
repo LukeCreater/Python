@@ -20,3 +20,19 @@ else:
 pessoa = []
 pessoa.append("Lucas")
 print(pessoa)
+
+lista3 = [546,584,12,5,0,848,126,384,4,8,94,15,46]
+lista3.sort()
+print(lista3)
+
+lista4 = [54,16,6]
+lista4 = sorted(lista4)
+print(lista4)
+lista4.reverse()
+print(lista4)
+
+lista5 = ["meu", "deus"]
+lista5.sort(reverse=True)
+print(lista5)
+lista5.sort()
+print(lista5)
